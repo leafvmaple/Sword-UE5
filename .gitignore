@@ -1,0 +1,31 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Workspace files
+*.code-workspace
+
+# Unreal Engine - Build
+Binaries/
+Intermediate/
+DerivedDataCache/
+Build/
+
+# Unreal Engine - Saved
+Saved/
+
+# Unreal Engine - Content (optional large assets cache)
+Content/Developers/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Ignore file
+.ignore
